@@ -1,0 +1,182 @@
+.app {
+    height: 100%;
+    width: 100%;
+}
+/* ----------------------------câu1---------------------------- */
+.c1_1 {
+   text-align: center;
+}
+.c1_4 {
+    text-align: center;
+}
+/*-------------------------------- câu2--------------------------------- */
+.app_2 {
+    margin-top: 50px;
+}
+.c2_1 {
+    text-align: center;
+    color: #006600;
+    
+}
+.c2_2 {
+    color: #0000ff;
+}
+.c2_3 {
+    background-color: #fecffd;
+    width: 100%;
+}
+.c2_3-1 {
+   color: #ff3399;
+   text-align: center;
+  
+}
+.c2_4 {
+   background-color: #ffffcc;
+   padding: 10px 0;
+   font-size: 1.5rem;
+}
+.c2_4-1 {
+    text-align: center; 
+   color: #320eff;
+   
+}
+.c2_4-2 {
+    text-align: center;
+    color:#006600;
+}
+.c2_4-3 {
+    text-align: center;
+   color:rgb(255, 0, 21);
+}
+.c2_4-4 {
+    content: "";
+    border-bottom: 1px solid #8a8787;
+   width: 355px;
+   margin: 0 224px;
+}
+/* ----------------------------------câu3 -------------------------------------------- */
+/* .app_3 {
+    background-color: #a06d21;
+    margin-top: 50px;
+    background-image: url(/assets/img/tải\ xuống.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 216px 300px;
+} */
+
+.c3_1 {
+  color: #ffcc00;
+  text-align: center;
+}
+.c3_2 {
+   color: #ffff;
+   margin: 5px 10px;
+   font-size: 18px;
+}
+/* -----------------------------câu4 ---------------------------------------------------- */
+/* .app_4 {
+    background-image: url(/assets/img/1.jpg);
+    background-position: center;
+    background-size: 90px 100px;
+    margin-top: 50px;
+} */
+.c4 {
+    text-align: center;
+    color: #008888;
+}
+.c4_1 {
+   background-color: #339999;
+   color: #ffff;
+   margin: 5px 10px;
+}
+.c4_2 {
+   color: #008888;
+   margin: 5px 10px;
+}
+.c4_3 {
+    color: #008888;
+    margin: 5px 10px;
+}
+/* ----------------------- câu 5 ------------------------------ */
+.app_5 {
+    margin-top: 50px;
+}
+.c5 {
+   text-align: center;
+   color: #006600;
+   
+}
+.c5_1 {
+   color: red;
+}
+.c5_2 {
+  color: red;
+}
+.c5_3 {
+    color: red;
+}
+.c5_4 {
+    background-color: #ccc;
+    padding: 0px 343px;
+    margin-top: 10px;
+    
+}
+.c5_4-1 {
+   color: #0000ff;
+   margin: 0 0 0 -47px;
+}
+.c5_4-2 {
+    color: #0000ff;
+}
+.c5_4-3 {
+    margin: 0 0 0 -47px;
+    color: #0000ff;
+}
+/* ----------------------câu 6-------------------------------- */
+.app_6 {
+   margin: 50px 0;
+}
+.c6_1 {
+   border: 3px double #a06d21;
+}
+.c6_1-1 {
+    text-align: center;
+    color: #a06d21;
+}
+.c6_2 {
+    font-size: 19px;
+}
+.c6_2-1 {
+   font-size: 50px;
+   font-weight: 900;
+   color: rgb(153, 10, 10);
+}
+.c6_3 {
+   background-color: coral;
+   text-align: end;
+   color: #fff;
+   font-size: 1.6rem;
+
+}
+.c6_4 {
+    text-align: left;
+    font-size: 19px;
+}
+.c6_4-1 {
+    font-size: 50px;
+    font-weight: 900;
+    color: rgb(153, 10, 10);
+}
+.c6_4-2 {
+   color: red;
+}
+.c6_4-3 {
+   color: red;
+}
+.c6_4-4 {
+   background-color: #c78829;
+}
+.c6_4-5 {
+    background-color: #c78829;
+}
+
